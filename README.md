@@ -8,7 +8,7 @@ Dataset: [FoodVision Mini dataset](https://pytorch.org/vision/stable/generated/t
 
 ## Overview
 
-Welcome to the FoodMini Vision Transformer project! In this repository, I am excited to share my journey of replicating a machine learning research paper, "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" (ViT paper), using PyTorch. The primary goal is to create a Vision Transformer (ViT) from scratch and achieve an accuracy of above 95% on the FoodVision Mini problem.
+Welcome to the FoodMini Vision Transformer project! In this repository, I am excited to share my journey of replicating a machine learning research paper, "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" (ViT paper), using PyTorch. The primary goal is to create a Vision Transformer (ViT) from scratch and achieve a test accuracy of above 90% on the FoodVision Mini problem.
 
 ## Background
 
